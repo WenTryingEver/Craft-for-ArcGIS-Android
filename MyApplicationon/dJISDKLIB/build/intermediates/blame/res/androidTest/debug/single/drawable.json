@@ -4,20 +4,44 @@
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_draw_end.png"
     },
     {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_draw_start_plane.png",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_draw_start_plane.png"
+    },
+    {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indoorpointing_cannotpass.png",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\indoorpointing_cannotpass.png"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\draw_arrow.png",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\draw_arrow.png"
     },
     {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_launcher.png",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_launcher.png"
     },
     {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\draw_route.png",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\draw_route.png"
+    },
+    {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_draw_started.png",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_draw_started.png"
     },
     {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_draw_starter.png",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_draw_starter.png"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indoorpointing_canpass.png",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\indoorpointing_canpass.png"
+    },
+    {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_radio_selector.xml",
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_radio_selector.xml"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indoorpointing_cannotpass.png",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\indoorpointing_cannotpass.png"
     },
     {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_zoom_selector.xml",
@@ -28,12 +52,28 @@
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\radio_unchecked.png"
     },
     {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_radio_selector.xml",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_radio_selector.xml"
+    },
+    {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_lock_selector.xml",
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_lock_selector.xml"
     },
     {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_radio_selector.xml",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_radio_selector.xml"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_draw_end.png",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_draw_end.png"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\radio_unchecked.png",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\radio_unchecked.png"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\radio_checked.png",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\radio_checked.png"
     },
     {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\radio_checked.png",
@@ -68,6 +108,10 @@
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\draw_route.png"
     },
     {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_lock_selector.xml",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_lock_selector.xml"
+    },
+    {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\draw_arrow.png",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\draw_arrow.png"
     },
@@ -76,8 +120,20 @@
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_draw_started.png"
     },
     {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\draw_route_pass.png",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\draw_route_pass.png"
+    },
+    {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_zoom_selector.xml",
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_zoom_selector.xml"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_draw_started.png",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_draw_started.png"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_launcher.png"
     },
     {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\draw_route_pass.png",
@@ -102,6 +158,10 @@
     {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_draw_start_plane.png",
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_draw_start_plane.png"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_zoom_selector.xml",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_zoom_selector.xml"
     },
     {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\radio_checked.png",

@@ -1,9 +1,5 @@
 [
     {
-        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_960x720_3s.h264",
-        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_960x720_3s.h264"
-    },
-    {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\flyforbid.json",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\flyforbid.json"
     },
@@ -16,136 +12,92 @@
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_640x480.h264"
     },
     {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_960x720_wm620.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_960x720_wm620.h264"
+    },
+    {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_p4p_720_16x9.h264",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_p4p_720_16x9.h264"
     },
     {
-        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_p4p_720_4x3.h264",
-        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_p4p_720_4x3.h264"
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_wm220_1280x720.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_wm220_1280x720.h264"
     },
     {
-        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\arrow_v02.3ds",
-        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\arrow_v02.3ds"
-    },
-    {
-        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_p4p_720_4x3.h264",
-        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_p4p_720_4x3.h264"
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_640x368_wm620.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_640x368_wm620.h264"
     },
     {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\gimbal_param_infos",
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\gimbal_param_infos"
     },
     {
-        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1760x720_wm620.h264",
-        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1760x720_wm620.h264"
-    },
-    {
-        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_gd600_1280x720.h264",
-        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_gd600_1280x720.h264"
-    },
-    {
-        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\dock.ogg",
-        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\dock.ogg"
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1920x1088_wm620.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1920x1088_wm620.h264"
     },
     {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1080x720_wm620.h264",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1080x720_wm620.h264"
     },
     {
-        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1360x720_wm620.h264",
-        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1360x720_wm620.h264"
-    },
-    {
-        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1280x720_wm220.h264",
-        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1280x720_wm220.h264"
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1280x720_3s.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1280x720_3s.h264"
     },
     {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_cam_cap_4p.h264",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_cam_cap_4p.h264"
     },
     {
-        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1920x1088_wm620.h264",
-        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1920x1088_wm620.h264"
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1632x1080_wm620.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1632x1080_wm620.h264"
     },
     {
-        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1440x1088_wm620.h264",
-        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1440x1088_wm620.h264"
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\overexposure.png",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\overexposure.png"
     },
     {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1280x720_3s.h264",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1280x720_3s.h264"
     },
     {
-        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_p4p_1344x720.h264",
-        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_p4p_1344x720.h264"
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_960x720_3s.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_960x720_3s.h264"
     },
     {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1088x720_wm620.h264",
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1088x720_wm620.h264"
     },
     {
-        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\flyc_param_infos",
-        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\flyc_param_infos"
-    },
-    {
-        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\dock.ogg",
-        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\dock.ogg"
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\dock.ogg",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\dock.ogg"
     },
     {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\gimbal_param_infos",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\gimbal_param_infos"
     },
     {
-        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1280x720_wm620.h264",
-        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1280x720_wm620.h264"
-    },
-    {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1440x1088_wm620.h264",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1440x1088_wm620.h264"
-    },
-    {
-        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\flyc_param_infos",
-        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\flyc_param_infos"
-    },
-    {
-        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1920x800_wm620.h264",
-        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1920x800_wm620.h264"
     },
     {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_608x448_wm620.h264",
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_608x448_wm620.h264"
     },
     {
-        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_p4p_720_3x2.h264",
-        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_p4p_720_3x2.h264"
-    },
-    {
-        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\overexposure.png",
-        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\overexposure.png"
-    },
-    {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_640x480.h264",
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_640x480.h264"
     },
     {
-        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1920x1024_wm620.h264",
-        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1920x1024_wm620.h264"
-    },
-    {
-        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_wm220_1280x720.h264",
-        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_wm220_1280x720.h264"
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_gd600_1280x720.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_gd600_1280x720.h264"
     },
     {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_cam_cap_4p.h264",
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_cam_cap_4p.h264"
     },
     {
-        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_640x368_wm620.h264",
-        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_640x368_wm620.h264"
-    },
-    {
-        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1080x720_wm620.h264",
-        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1080x720_wm620.h264"
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\gimbal_param_infos",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\gimbal_param_infos"
     },
     {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1360x720_wm620.h264",
@@ -156,32 +108,20 @@
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1920x1088_wm620.h264"
     },
     {
-        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1088x720_wm620.h264",
-        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1088x720_wm620.h264"
-    },
-    {
-        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1632x1080_wm620.h264",
-        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1632x1080_wm620.h264"
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1760x720_wm620.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1760x720_wm620.h264"
     },
     {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1080x720_gd600.h264",
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1080x720_gd600.h264"
     },
     {
-        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_960x720_wm620.h264",
-        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_960x720_wm620.h264"
-    },
-    {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1280x720_wm620.h264",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1280x720_wm620.h264"
     },
     {
-        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\overexposure.png",
-        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\overexposure.png"
-    },
-    {
-        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_720x480_wm620.h264",
-        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_720x480_wm620.h264"
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1280x720_ins.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1280x720_ins.h264"
     },
     {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_848x480.h264",
@@ -190,6 +130,10 @@
     {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1280x720_p4.h264",
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1280x720_p4.h264"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\effect_tick.ogg",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\effect_tick.ogg"
     },
     {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1280x720_wm220.h264",
@@ -204,6 +148,222 @@
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1344x720_wm620.h264"
     },
     {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_p4p_1344x720.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_p4p_1344x720.h264"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1280x720_p4.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1280x720_p4.h264"
+    },
+    {
+        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_wm220_1280x720.h264",
+        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_wm220_1280x720.h264"
+    },
+    {
+        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1024x768_wm100.h264",
+        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1024x768_wm100.h264"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_p4p_720_16x9.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_p4p_720_16x9.h264"
+    },
+    {
+        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1080x720_gd600.h264",
+        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1080x720_gd600.h264"
+    },
+    {
+        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1920x1440_wm620.h264",
+        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1920x1440_wm620.h264"
+    },
+    {
+        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1632x1080_wm620.h264",
+        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1632x1080_wm620.h264"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1360x720_wm620.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1360x720_wm620.h264"
+    },
+    {
+        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1280x720_ins.h264",
+        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1280x720_ins.h264"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1280x720_wm620.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1280x720_wm620.h264"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1920x800_wm620.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1920x800_wm620.h264"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1280x720_wm220.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1280x720_wm220.h264"
+    },
+    {
+        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1280x720_3s.h264",
+        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1280x720_3s.h264"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1024x768_wm100.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1024x768_wm100.h264"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_720x480_wm620.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_720x480_wm620.h264"
+    },
+    {
+        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_960x720_3s.h264",
+        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_960x720_3s.h264"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\flyforbid.json",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\flyforbid.json"
+    },
+    {
+        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_p4p_720_4x3.h264",
+        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_p4p_720_4x3.h264"
+    },
+    {
+        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\arrow_v02.3ds",
+        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\arrow_v02.3ds"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\arrow_v02.3ds",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\arrow_v02.3ds"
+    },
+    {
+        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_p4p_720_4x3.h264",
+        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_p4p_720_4x3.h264"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1920x1024_wm620.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1920x1024_wm620.h264"
+    },
+    {
+        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1760x720_wm620.h264",
+        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1760x720_wm620.h264"
+    },
+    {
+        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_gd600_1280x720.h264",
+        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_gd600_1280x720.h264"
+    },
+    {
+        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\dock.ogg",
+        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\dock.ogg"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1440x1088_wm620.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1440x1088_wm620.h264"
+    },
+    {
+        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1360x720_wm620.h264",
+        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1360x720_wm620.h264"
+    },
+    {
+        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1280x720_wm220.h264",
+        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1280x720_wm220.h264"
+    },
+    {
+        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1920x1088_wm620.h264",
+        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1920x1088_wm620.h264"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_cam_cap_4p.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_cam_cap_4p.h264"
+    },
+    {
+        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1440x1088_wm620.h264",
+        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1440x1088_wm620.h264"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_p4p_720_4x3.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_p4p_720_4x3.h264"
+    },
+    {
+        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_p4p_1344x720.h264",
+        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_p4p_1344x720.h264"
+    },
+    {
+        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\flyc_param_infos",
+        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\flyc_param_infos"
+    },
+    {
+        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\dock.ogg",
+        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\dock.ogg"
+    },
+    {
+        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1280x720_wm620.h264",
+        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1280x720_wm620.h264"
+    },
+    {
+        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\flyc_param_infos",
+        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\flyc_param_infos"
+    },
+    {
+        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1920x800_wm620.h264",
+        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1920x800_wm620.h264"
+    },
+    {
+        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_p4p_720_3x2.h264",
+        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_p4p_720_3x2.h264"
+    },
+    {
+        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\overexposure.png",
+        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\overexposure.png"
+    },
+    {
+        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1920x1024_wm620.h264",
+        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1920x1024_wm620.h264"
+    },
+    {
+        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_wm220_1280x720.h264",
+        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_wm220_1280x720.h264"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_p4p_720_3x2.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_p4p_720_3x2.h264"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1080x720_gd600.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1080x720_gd600.h264"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1080x720_wm620.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1080x720_wm620.h264"
+    },
+    {
+        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_640x368_wm620.h264",
+        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_640x368_wm620.h264"
+    },
+    {
+        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1080x720_wm620.h264",
+        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1080x720_wm620.h264"
+    },
+    {
+        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1088x720_wm620.h264",
+        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1088x720_wm620.h264"
+    },
+    {
+        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1632x1080_wm620.h264",
+        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1632x1080_wm620.h264"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_608x448_wm620.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_608x448_wm620.h264"
+    },
+    {
+        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_960x720_wm620.h264",
+        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_960x720_wm620.h264"
+    },
+    {
+        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\overexposure.png",
+        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\overexposure.png"
+    },
+    {
+        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_720x480_wm620.h264",
+        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_720x480_wm620.h264"
+    },
+    {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_608x448_wm620.h264",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_608x448_wm620.h264"
     },
@@ -216,28 +376,32 @@
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_720x480_wm620.h264"
     },
     {
-        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_wm220_1280x720.h264",
-        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_wm220_1280x720.h264"
-    },
-    {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1760x720_wm620.h264",
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1760x720_wm620.h264"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_848x480.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_848x480.h264"
     },
     {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\effect_tick.ogg",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\effect_tick.ogg"
     },
     {
-        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1024x768_wm100.h264",
-        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1024x768_wm100.h264"
-    },
-    {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1920x1440_wm620.h264",
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1920x1440_wm620.h264"
     },
     {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1920x1440_wm620.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1920x1440_wm620.h264"
+    },
+    {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_640x368_wm620.h264",
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_640x368_wm620.h264"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_640x480.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_640x480.h264"
     },
     {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\flyforbid.json",
@@ -248,24 +412,16 @@
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1280x720_ins.h264"
     },
     {
-        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1080x720_gd600.h264",
-        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1080x720_gd600.h264"
-    },
-    {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_960x720_wm620.h264",
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_960x720_wm620.h264"
     },
     {
-        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1920x1440_wm620.h264",
-        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1920x1440_wm620.h264"
-    },
-    {
-        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1632x1080_wm620.h264",
-        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1632x1080_wm620.h264"
-    },
-    {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\arrow_v02.3ds",
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\arrow_v02.3ds"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1344x720_wm620.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1344x720_wm620.h264"
     },
     {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1024x768_wm100.h264",
@@ -276,16 +432,16 @@
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_p4p_720_3x2.h264"
     },
     {
-        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1280x720_ins.h264",
-        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1280x720_ins.h264"
-    },
-    {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1344x720_wm620.h264",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1344x720_wm620.h264"
     },
     {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_848x480.h264",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_848x480.h264"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1088x720_wm620.h264",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1088x720_wm620.h264"
     },
     {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1920x800_wm620.h264",
@@ -300,12 +456,12 @@
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_p4p_1344x720.h264"
     },
     {
-        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_gd600_1280x720.h264",
-        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_gd600_1280x720.h264"
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\flyc_param_infos",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\flyc_param_infos"
     },
     {
-        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_1280x720_3s.h264",
-        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_1280x720_3s.h264"
+        "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_gd600_1280x720.h264",
+        "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\raw\\iframe_gd600_1280x720.h264"
     },
     {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\iframe_960x720_3s.h264",

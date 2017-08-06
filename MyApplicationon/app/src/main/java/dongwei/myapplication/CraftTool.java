@@ -16,7 +16,6 @@ import android.support.v4.app.ActivityCompat;
 import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
-import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.Toast;
@@ -604,6 +603,12 @@ public class CraftTool {
                 //setResultToToast("Set Mode: " + (error == null ? "Successfully" : error.getDescription()));
             }
         });
+        try{
+            Thread thread = Thread.currentThread();
+            thread.sleep(1000);//暂停1秒后程序继续执行
+        }catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         DJIDemoApplication.getProductInstance()
                 .getCamera().getMediaManager().refreshFileList(new CommonCallbacks.CompletionCallback() {
             @Override
@@ -728,10 +733,10 @@ public class CraftTool {
                             }
 
                             aircraftStateStr = "aircraft:\n"+droneLocationLat+","+droneLocationLng+","
-                                    +djiFlightControllerCurrentState.getAircraftLocation().getAltitude()+"\n"
-                                    +"PitchInDegrees: "+djiFlightControllerCurrentState.getAttitude().pitch+"\n"
-                                    +"RollInDegrees: "+djiFlightControllerCurrentState.getAttitude().roll+"\n"
-                                    +"YawInDegrees: "+djiFlightControllerCurrentState.getAttitude().yaw+"\n";
+                                    +djiFlightControllerCurrentState.getAircraftLocation().getAltitude()+"\n";
+                                   // +"PitchInDegrees: "+djiFlightControllerCurrentState.getAttitude().pitch+"\n"
+                                  //  +"RollInDegrees: "+djiFlightControllerCurrentState.getAttitude().roll+"\n"
+                                   // +"YawInDegrees: "+djiFlightControllerCurrentState.getAttitude().yaw+"\n";
                             //updateDroneLocation();
                         }
                     });
@@ -900,4 +905,24 @@ public class CraftTool {
                 });
     }
 
+    private List<Point> sortPoints(List<Point> points,Point cp){
+        //任务点排序
+        if(points.size()<=1){
+            return points;
+        }
+        int mini = 0;
+        double mindis = 999999999;
+        for(int i = 0;i<points.size();i++){
+            if(((points.get(i).getX()-cp.getX())*(points.get(i).getX()-cp.getX())+points.get(i).getY()-cp.getY())*(points.get(i).getY()-cp.getY())<mindis){
+                mindis = (points.get(i).getX()-cp.getX())*(points.get(i).getX()-cp.getX())+(points.get(i).getY()-cp.getY())*(points.get(i).getY()-cp.getY());
+                mini = i;
+            }
+        }
+        List<Point> newPoints= new ArrayList<Point>();
+        Point newcp = points.get(mini);
+        newPoints.add(points.get(mini));
+        points.remove(mini);
+        newPoints.addAll(sortPoints(points,newcp));
+        return newPoints;
+    }
 }

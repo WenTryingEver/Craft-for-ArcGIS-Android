@@ -6,5 +6,9 @@
     {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\accessory_filter.xml",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\xml\\accessory_filter.xml"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\accessory_filter.xml",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\xml\\accessory_filter.xml"
     }
 ]

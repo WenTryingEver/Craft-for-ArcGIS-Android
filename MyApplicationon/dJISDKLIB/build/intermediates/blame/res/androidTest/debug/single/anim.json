@@ -12,12 +12,24 @@
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_right_out.xml"
     },
     {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_zoom_enter.xml",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_zoom_enter.xml"
+    },
+    {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_right_out.xml",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_right_out.xml"
     },
     {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_left_out.xml",
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_left_out.xml"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_hold.xml",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_hold.xml"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_up_out.xml",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_up_out.xml"
     },
     {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_left_out.xml",
@@ -28,6 +40,10 @@
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_other.xml"
     },
     {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_left_out.xml",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_left_out.xml"
+    },
+    {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_zoom_enter.xml",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_zoom_enter.xml"
     },
@@ -36,12 +52,20 @@
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_left_in.xml"
     },
     {
+        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_hold.xml",
+        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_hold.xml"
+    },
+    {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_hyperspace_out.xml",
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_hyperspace_out.xml"
     },
     {
-        "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_hold.xml",
-        "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_hold.xml"
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_zoom_enter_back.xml",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_zoom_enter_back.xml"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_zoom_exit_back.xml",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_zoom_exit_back.xml"
     },
     {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_hyperspace_out.xml",
@@ -60,16 +84,40 @@
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_other.xml"
     },
     {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_zoom_exit.xml",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_zoom_exit.xml"
+    },
+    {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_hold.xml",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_hold.xml"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_hyperspace_in.xml",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_hyperspace_in.xml"
     },
     {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_right_in.xml",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_right_in.xml"
     },
     {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_other.xml",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_other.xml"
+    },
+    {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_left_in.xml",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_left_in.xml"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_up_in.xml",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_up_in.xml"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_right_in.xml",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_right_in.xml"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_right_out.xml",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_right_out.xml"
     },
     {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_up_out.xml",
@@ -104,11 +152,19 @@
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_zoom_exit_back.xml"
     },
     {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_left_in.xml",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_left_in.xml"
+    },
+    {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_up_in.xml",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_up_in.xml"
     },
     {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_hyperspace_in.xml",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_hyperspace_in.xml"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_hyperspace_out.xml",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_hyperspace_out.xml"
     }
 ]

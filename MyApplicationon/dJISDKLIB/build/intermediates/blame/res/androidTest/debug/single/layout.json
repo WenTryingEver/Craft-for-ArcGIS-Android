@@ -8,11 +8,19 @@
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_login.xml"
     },
     {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_login.xml",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_login.xml"
+    },
+    {
         "merged": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\log_dialog_view.xml",
         "source": "E:\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\layout\\log_dialog_view.xml"
     },
     {
         "merged": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\log_dialog_view.xml",
         "source": "E:\\esri\\MyApplication\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\layout\\log_dialog_view.xml"
+    },
+    {
+        "merged": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\log_dialog_view.xml",
+        "source": "D:\\projects\\GameTestDemo\\Craft-for-ArcGIS-Android\\MyApplicationon\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\layout\\log_dialog_view.xml"
     }
 ]
