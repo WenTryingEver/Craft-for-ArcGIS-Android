@@ -1,0 +1,81 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="@+id/container">
+
+    <com.esri.arcgisruntime.mapping.view.MapView
+        android:id="@+id/mapViewLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+    </com.esri.arcgisruntime.mapping.view.MapView>
+
+    <com.github.clans.fab.FloatingActionMenu
+        android:id="@+id/menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        fab:fab_colorNormal="@color/colorPrimary"
+        fab:fab_colorPressed="@color/colorPrimary"
+        fab:fab_colorRipple="@color/colorPrimary"
+
+        android:layout_marginBottom="28dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignEnd="@+id/editbar"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="28dp">
+
+
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/craft"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            fab:fab_size="mini"
+            fab:fab_label="无人机采集"
+            />
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/edit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            fab:fab_size="mini"
+            fab:fab_label="数据编辑"
+            />
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/layermanager"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            fab:fab_size="mini"
+            fab:fab_label="数据管理"
+            />
+
+    </com.github.clans.fab.FloatingActionMenu>
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/fragment1"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="28dp">
+
+    </FrameLayout>
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/fragment3"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="28dp"
+        android:layout_marginBottom="28dp">
+
+    </FrameLayout>
+
+
+</RelativeLayout>

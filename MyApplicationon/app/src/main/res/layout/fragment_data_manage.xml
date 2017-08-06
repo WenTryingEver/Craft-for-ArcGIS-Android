@@ -1,0 +1,54 @@
+<RelativeLayout android:orientation="vertical"
+    android:layout_height="wrap_content"
+    android:id="@+id/layermanagerlay"
+    android:background="@color/__picker_common_primary"
+    android:layout_width="350dp"
+    android:layout_centerInParent="false"
+    android:layout_alignParentLeft="false"
+    android:layout_alignParentRight="true"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:text="图层管理"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:background="@color/light_blue_500"
+        android:typeface="normal"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layerRcycleView"
+        android:background="@color/__picker_common_primary"
+        android:padding="0dp"
+        android:layout_below="@+id/textView2">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="false"
+        android:layout_below="@+id/layerRcycleView">
+
+        <Button
+            android:text="取消"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/btnlayermanagercancel" />
+
+        <Button
+            android:text="确定"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnlayermanagerok"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+</RelativeLayout>

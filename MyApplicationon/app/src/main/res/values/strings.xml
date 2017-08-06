@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Edit Feature Attachments</string>
+    <string name="edit_attachments">Edit Attachments</string>
+    <string name="attribute">"AttributeID"</string>
+    <string name="attachment">attachment</string>
+    <string name="noOfAttachments">noOfAttachments</string>
+
+    <!-- Messages -->
+    <string name="fetching_no_attachments">Fetching attachment count</string>
+    <string name="info_button_message">Tap on the info button to edit attachment</string>
+    <string name="attachment_info_message">Number of attachments | </string>
+    <string name="empty_attachment_message">Click + to add attachments</string>
+    <string name="fetching_attachments">Fetching Attachments</string>
+    <string name="wait">Please wait&#8230;</string>
+    <string name="downloading_attachments">Downloading Attachments</string>
+    <string name="deleting_attachments">Deleting Attachments</string>
+    <string name="delete_query">Are you sure you want to delete the attachment?</string>
+    <string name="apply_edit_message">Applying Edits on Server</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="success_message">Feature edited successfully</string>
+    <string name="failure_message">Server Error: Failed updating feature attachment to the server.</string>
+    <string name="failure_edit_results">Server did not return edit results</string>
+
+    <!-- Feature Service URL -->http://www.giswe.com:6080/arcgis/rest/services/wwwd/FeatureServer/0
+    <string name="sample_service_url">http://www.giswe.com:6080/arcgis/rest/services/wwwd/FeatureServer/0</string>
+    <string name="storage_permission_denied">Storage permission denied</string>
+    <!-- World Topo Map Service URL -->
+    <string name="world_elevation_service">http://sampleserver5.arcgisonline.com/arcgis/rest/services/Elevation/WorldElevations/MapServer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

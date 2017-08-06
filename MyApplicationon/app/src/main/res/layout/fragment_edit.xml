@@ -1,0 +1,64 @@
+<LinearLayout android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:id="@+id/editbar"
+    android:layout_centerHorizontal="false"
+    android:layout_alignParentRight="true"
+    android:layout_marginRight="30dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton
+        style="@style/Medium"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:gravity="center"
+        android:text="C"
+        android:textColor="#FFFFFF"
+
+        android:src="@drawable/attri"
+        android:background="@drawable/path_white_oval"
+        android:layout_weight="1"
+        android:layout_marginLeft="25dp"
+        android:id="@+id/btattribute" />
+
+    <ImageButton
+        style="@style/Medium"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:gravity="center"
+        android:text="C"
+        android:textColor="#FFFFFF"
+
+        android:src="@drawable/smartdraw"
+        android:background="@drawable/path_white_oval"
+        android:layout_weight="1"
+        android:layout_marginLeft="25dp"
+        android:id="@+id/btsmart" />
+    <ImageButton
+        style="@style/Medium"
+        android:layout_width="48dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="C"
+        android:textColor="#FFFFFF"
+
+        android:src="@drawable/stock_node_corner"
+        android:background="@drawable/path_white_oval"
+        android:layout_weight="1"
+        android:layout_marginLeft="25dp"
+        android:id="@+id/bteditnode" />
+    <ImageButton
+        style="@style/Medium"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:gravity="center"
+        android:text="C"
+        android:textColor="#FFFFFF"
+
+        android:src="@drawable/deletered"
+        android:background="@drawable/path_white_oval"
+        android:layout_weight="1"
+        android:layout_marginLeft="25dp"
+        android:id="@+id/btdelete" />
+
+</LinearLayout>

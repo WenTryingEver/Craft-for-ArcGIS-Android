@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ItemArray">
+        <item>第一项</item>
+        <item>第二项</item>
+        <item>第三项</item>
+        <item>第四项</item>
+        <item>第五项</item>
+        <item>第六项</item>
+        <item>第七项</item>
+        <item>第八项</item>
+        <item>第九项</item>
+    </array>
+</resources>
